@@ -37,6 +37,5 @@ const init = async () => {
 
   console.log(await fetchUserSkills(moe.id));
 };
-};
 
 init();
